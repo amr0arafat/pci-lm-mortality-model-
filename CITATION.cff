@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this model or code, please cite the accompanying manuscript and this software."
+title: "Machine-learning model for in-hospital mortality after PCI for unprotected left main disease (Gulf-LM registry)"
+abstract: >-
+  Reproducible code, trained random-forest model, and an interactive risk calculator for predicting
+  in-hospital mortality after percutaneous coronary intervention for unprotected left main coronary
+  artery disease, developed in the Gulf-LM registry.
+type: software
+authors:
+  - family-names: "[Author 1 surname]"
+    given-names: "[Author 1 given names]"
+  # add remaining authors here
+license: MIT
+version: "1.0.0"
+date-released: "2025-01-01"
+keywords:
+  - machine learning
+  - random forest
+  - percutaneous coronary intervention
+  - left main coronary artery disease
+  - clinical prediction model
+  - explainable AI
+# After archiving on Zenodo, add:
+# doi: 10.5281/zenodo.XXXXXXX
